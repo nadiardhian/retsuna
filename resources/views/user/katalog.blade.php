@@ -5,17 +5,17 @@
     
 <div class="row">
     <div class="col-sm-2">
-            <div class="mb-3" style="width: 18rem;">
-                <div class="card-header">
-                    Kategori Produk
-                </div>
-                <div class="list-group">
-                    <a href="#" class="list-group-item list-group-item-action">First item</a>
-                    <a href="#" class="list-group-item list-group-item-action">Second item</a>
-                    <a href="#" class="list-group-item list-group-item-action">Third item</a>
-                </div> 
+        <div class="mb-3" style="width: 18rem;">
+            <div class="card-header">
+                Kategori Produk
             </div>
+            <div class="list-group">
+                <a href="#" class="list-group-item list-group-item-action">First item</a>
+                <a href="#" class="list-group-item list-group-item-action">Second item</a>
+                <a href="#" class="list-group-item list-group-item-action">Third item</a>
+            </div> 
         </div>
+    </div>
         <div class="col-sm-9">
             <h1 style="text-align:left;"> Katalog Produk</h1>
             <div class="row">
@@ -27,7 +27,7 @@
                                 <h3>Card 1</h3>
                                 <p>Some text</p>
                                 <p>Some text</p>
-                        </div>
+                    </div>
                    
                 </div>
 
@@ -65,36 +65,9 @@
                 </div>
             </div>
         </div>
-    <!-- <div class="container mt-9" style="width: 18rem;">
-    </div> -->
-    <!-- <div class="container">
-        <div class="row g-0">
-            <div class="col-md-3">
-                <img class="w-500" src="https://placeimg.com/150/150/nature" alt="gambar alam">
-            </div>
-            <div class="col-md-3">
-                <img class="w-500" src="https://placeimg.com/150/150/nature" alt="gambar alam">
-            </div>
-            <div class="col-md-3">
-                <img class="w-500" src="https://placeimg.com/150/150/nature" alt="gambar alam">
-            </div>
-            <div class="col-md-3">
-                <img class="w-500" src="https://placeimg.com/150/150/nature" alt="gambar alam">
-            </div>
-            <div class="col-md-3">
-                <img class="w-500" src="https://placeimg.com/150/150/nature" alt="gambar alam">
-            </div>
-            <div class="col-md-3">
-                <img class="w-500" src="https://placeimg.com/150/150/nature" alt="gambar alam">
-            </div>
-            <div class="col-md-3">
-                <img class="w-500" src="https://placeimg.com/150/150/nature" alt="gambar alam">
-            </div>
-            <div class="col-md-3">
-                <img class="w-500" src="https://placeimg.com/150/150/nature" alt="gambar alam">
-            </div>
-        </div>
-    </div> -->
+</div>
+
+
 <style>
     * {
     box-sizing: border-box;
